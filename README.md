@@ -1,8 +1,10 @@
-## Hi there 👋 Wellcome to my github profile
+## Hi there 👋 Wellcome to my profile
 
 ![Moch Rossy Avian Ishak](img/github-header-banner.png)
 
-## About Me
+---
+
+## 💬 About Me
 
 - 🌱 I’m currently learning Fullstack
 - 🔭 I’m currently working on
@@ -21,10 +23,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-## Skills
+## ⚡ Tech Stack :
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,bash,perl,linux,bsd,redhat,debian,js,cs,css,html,php,py,django,docker,kubernetes,ai,laravel,mongodb,mysql,postgres,&perline=8)](https://skillicons.dev)
 
-## Connect with me
+## 📫 How to reach me :
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) [![https://www.linkedin.com/in/mochammad-rossy-avian-ishak-b684b721/](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+
+---
+
+## 😄 Mini Games
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+</picture>
