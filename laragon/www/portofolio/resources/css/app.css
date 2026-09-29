@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #5540af;
+    --color-yellow: #ffd646;
+    --color-lila: #e6e3f2;
+    --color-hero-gradient-from: #4c359a;
+    --color-hero-gradient-to: #5d46bb;
+    --color-blog-gradient-from: #0f172a;
+    --color-blog-gradient-to: #1e293b;
+
+    --font-header: "Raleway", sans-serif;
+    --font-body: "Open Sans", sans-serif;
+}
+
+@source "../**/*.blade.php";
+@source "../**/*.js";
