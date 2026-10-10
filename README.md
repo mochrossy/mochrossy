@@ -6,8 +6,8 @@
 
 ## 💬 About Me
 
-- 🌱 I’m currently learning Fullstack
-- 🔭 I’m currently working on
+- 🌱 I’m currently learning Fullstack & Machine Learning
+- 💬 Ask me about Linux Server
 <!--
 **mochrossy/mochrossy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
